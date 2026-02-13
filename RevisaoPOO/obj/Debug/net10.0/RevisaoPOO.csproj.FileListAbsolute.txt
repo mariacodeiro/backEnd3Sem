@@ -1,0 +1,15 @@
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\bin\Debug\net10.0\RevisaoPOO.exe
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\bin\Debug\net10.0\RevisaoPOO.deps.json
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\bin\Debug\net10.0\RevisaoPOO.runtimeconfig.json
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\bin\Debug\net10.0\RevisaoPOO.dll
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\bin\Debug\net10.0\RevisaoPOO.pdb
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.AssemblyInfoInputs.cache
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.AssemblyInfo.cs
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.sourcelink.json
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.dll
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\refint\RevisaoPOO.dll
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.pdb
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\RevisaoPOO.genruntimeconfig.cache
+C:\Users\46159086871\Desktop\backEnd3Sem\RevisaoPOO\obj\Debug\net10.0\ref\RevisaoPOO.dll
