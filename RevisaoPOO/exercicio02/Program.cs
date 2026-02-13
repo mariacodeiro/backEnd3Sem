@@ -1,4 +1,4 @@
-﻿using exercicio02;
+﻿using RevisaoPOO;
 
 Pessoa pessoa01 = new Pessoa();
 

@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿﻿using System.Diagnostics;
+using Atividade06;
+
+{
+    Pessoa p = new Pessoa("Gustavo");
+
+    p.Apresentar();
+    p.Apresentar("Costa");
+}

@@ -1,36 +1,39 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace exercicio04
-{
+
     public class Pessoa
     {
-        public string Nome { get; set; }
-
+        public string Nome;
         private int idade;
-
         public int Idade
         {
-            get { return idade; }
+            get{return idade;}
             set
             {
                 if (value > 0)
                 {
                     idade = value;
                 }
+
                 else
                 {
-                    Console.WriteLine("Idade inválida! Deve ser maior que zero.");
+                    Console.WriteLine($"Idade Invalida");
                 }
             }
         }
 
-               public Pessoa(string nome, int idade)
+        public Pessoa(string n, int i )
         {
-            Nome = nome;
-            Idade = idade; 
+            Nome = n;
+            Idade = i;
+        }
+
+        public void ExibirDados()
+        {
+            Console.WriteLine($"Nome: " + Nome);
+
+            if(Idade > 0)
+            {
+                Console.WriteLine($"Idade: " + Idade);        
+            }
         }
     }
-}
