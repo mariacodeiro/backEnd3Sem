@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\controllers\\contratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\controllers\\contratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\repositories\\tipocontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\repositories\\tipocontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\dto\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\dto\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\models\\tipocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\models\\tipocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\controllers\\tipocontratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\controllers\\tipocontratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\connectplus\\connectplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\connectplus\\connectplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\connectplus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\connectplus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|c:\\users\\46159086871\\desktop\\backend3sem\\event plus\\connectplus\\connectplus\\interface\\itipocontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D367C3F7-289A-CB18-E5FF-C106E1D8CB9B}|ConnectPlus\\ConnectPlus.csproj|solutionrelative:connectplus\\interface\\itipocontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Repositories\\TipoContatoRepository.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Repositories\\TipoContatoRepository.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Repositories\\TipoContatoRepository.cs",
+              "RelativeToolTip": "ConnectPlus\\Repositories\\TipoContatoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:51:37.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoContratoController.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Controllers\\TipoContratoController.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Controllers\\TipoContratoController.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Controllers\\TipoContratoController.cs",
+              "RelativeToolTip": "ConnectPlus\\Controllers\\TipoContratoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:06:32.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:23:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoContato.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Models\\TipoContato.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Models\\TipoContato.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Models\\TipoContato.cs",
+              "RelativeToolTip": "ConnectPlus\\Models\\TipoContato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:29:53.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Program.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Program.cs",
+              "RelativeToolTip": "ConnectPlus\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:54:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContratoController.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Controllers\\ContratoController.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Controllers\\ContratoController.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Controllers\\ContratoController.cs",
+              "RelativeToolTip": "ConnectPlus\\Controllers\\ContratoController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwHgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:07:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectPlus.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\ConnectPlus\\ConnectPlus.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\ConnectPlus\\ConnectPlus.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\ConnectPlus\\ConnectPlus.cs",
+              "RelativeToolTip": "ConnectPlus\\ConnectPlus\\ConnectPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:55:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\DTO\\ContratoDTO.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\DTO\\ContratoDTO.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\DTO\\ContratoDTO.cs",
+              "RelativeToolTip": "ConnectPlus\\DTO\\ContratoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:16:18.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITipoContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Interface\\ITipoContatoRepository.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Interface\\ITipoContatoRepository.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Interface\\ITipoContatoRepository.cs",
+              "RelativeToolTip": "ConnectPlus\\Interface\\ITipoContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:19:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "ConnectPlus\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\Models\\Contato.cs",
+              "RelativeToolTip": "ConnectPlus\\Models\\Contato.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:27:34.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectPlus",
+              "DocumentMoniker": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\ConnectPlus.csproj",
+              "RelativeDocumentMoniker": "ConnectPlus\\ConnectPlus.csproj",
+              "ToolTip": "C:\\Users\\46159086871\\Desktop\\backEnd3Sem\\Event plus\\ConnectPlus\\ConnectPlus\\ConnectPlus.csproj",
+              "RelativeToolTip": "ConnectPlus\\ConnectPlus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T13:12:44.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
